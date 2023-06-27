@@ -1,1 +1,1 @@
-# terraform-aws-module-ixnetwork-web-app
+# module-ixnetwork-web-app/aws
