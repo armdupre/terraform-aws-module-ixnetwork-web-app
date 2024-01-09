@@ -1,5 +1,5 @@
 variable "AmiName" {
-	default = "ixnetworkweb-ami-9-36-2306-8-9a24b482-4431-4f1c-806a-fb54f21acf51"
+	default = "ixnetworkweb-ami-10-00-2312-14-9a24b482-4431-4f1c-806a-fb54f21acf51"
 	description = "AMI name used for deploying instances"
 	type = string
 }
@@ -98,7 +98,7 @@ variable "UserProjectTag" {
 }
 
 variable "Version" {
-	default = "9-36"
+	default = "10-00"
 	description = "Versioning of the application using the deployment"
 	type = string
 }
