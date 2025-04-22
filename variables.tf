@@ -1,5 +1,5 @@
 variable "AmiName" {
-	default = "ixnetworkweb-ami-10-40-2406-91-9a24b482-4431-4f1c-806a-fb54f21acf51"
+	default = "ixnetworkweb-ami-10-40-2406-98-9a24b482-4431-4f1c-806a-fb54f21acf51"
 	description = "AMI name used for deploying instances"
 	type = string
 }
